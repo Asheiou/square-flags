@@ -600,6 +600,8 @@
   name: Tatarstan
 - code: ru-ud
   name: Udmurtia
+- code: ru-opp
+  name: Russia (opposition flag)
 - code: rw
   name: Rwanda
 - code: sa
