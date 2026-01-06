@@ -29,7 +29,7 @@ location.
 ## Usage
 
 ```text
-https://kapowaz.github.io/square-flags/flags/xx.svg
+https://asheiou.github.io/square-flags/flags/xx.svg
 ```
 
 (Where `xx` is the [ISO 3166-1 alpha-2 code][iso-3166-1] of a country).
@@ -37,41 +37,27 @@ https://kapowaz.github.io/square-flags/flags/xx.svg
 For example, the following code:
 
 ```html
-<img src="https://kapowaz.github.io/square-flags/flags/br.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/cn.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/gb.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/id.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/in.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/ng.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/ru.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/us.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/br.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/cn.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/gb.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/id.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/in.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/ng.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/ru.svg" width="48" />
+<img src="https://asheiou.github.io/square-flags/flags/us.svg" width="48" />
 ```
 
 ...produces this:<br/><br/>
-<img src="https://kapowaz.github.io/square-flags/flags/br.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/cn.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/gb.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/id.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/in.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/ng.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/ru.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/us.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/br.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/cn.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/gb.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/id.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/in.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/ng.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/ru.svg" width="48">
+<img src="https://asheiou.github.io/square-flags/flags/us.svg" width="48">
 
 To view all the available flags, check [the gallery][gallery].
-
-### React
-
-If you're using [React](https://reactjs.org), an equivalent `react-square-flags`
-package is [available here][react-square-flags].
-
-### NPM
-
-If you want to install this package as a dependency, you can add it to your
-project with:
-
-```sh
-npm install --save @kapowaz/square-flags
-```
 
 ### The color palette
 
