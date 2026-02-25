@@ -18,6 +18,8 @@
   name: Angola
 - code: aq
   name: Antarctica
+- code: aq-true_south
+  name: True South
 - code: ar
   name: Argentina
 - code: as
