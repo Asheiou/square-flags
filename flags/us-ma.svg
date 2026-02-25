@@ -1,0 +1,53 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="800" height="800" fill="#EEEEEE"></rect>
+
+  <!-- Shield (low-poly faceted) -->
+  <g>
+    <!-- Main shield base -->
+    <path d="M400 140 
+             L600 220 
+             L560 520 
+             L400 660 
+             L240 520 
+             L200 220 Z" fill="#002266"></path>
+
+    <!-- Facets -->
+    <polygon points="400,140 600,220 400,360" fill="#002266"></polygon>
+    <polygon points="400,140 200,220 400,360" fill="#002266"></polygon>
+    <polygon points="200,220 240,520 400,360" fill="#002266"></polygon>
+    <polygon points="600,220 560,520 400,360" fill="#002266"></polygon>
+    <polygon points="240,520 400,660 400,360" fill="#002266"></polygon>
+    <polygon points="560,520 400,660 400,360" fill="#002266"></polygon>
+  </g>
+
+  <!-- Star -->
+  <polygon fill="#EEEEEE" points="330,250 345,290 390,290 355,315 370,355 
+            330,330 290,355 305,315 270,290 315,290"></polygon>
+
+  <!-- Simplified low-poly figure -->
+  <g fill="#FFC635">
+    <!-- Head -->
+    <polygon points="400,300 420,320 400,340 380,320"></polygon>
+    
+    <!-- Torso -->
+    <polygon points="370,340 430,340 450,420 350,420"></polygon>
+    
+    <!-- Left leg -->
+    <polygon points="350,420 390,420 380,500 340,500"></polygon>
+    
+    <!-- Right leg -->
+    <polygon points="410,420 450,420 460,500 420,500"></polygon>
+    
+    <!-- Left arm -->
+    <polygon points="350,350 370,360 330,430 310,420"></polygon>
+    
+    <!-- Right arm -->
+    <polygon points="450,350 430,360 470,430 490,420"></polygon>
+    
+    <!-- Bow -->
+    <polygon points="300,300 310,290 320,520 310,530"></polygon>
+  </g>
+
+</svg>
