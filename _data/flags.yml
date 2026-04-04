@@ -188,6 +188,8 @@
   name: Canary Islands
 - code: es-ct
   name: Catalonia
+- code: es-ct-estelada
+  name: Catalonia (Estelada)
 - code: es-ga
   name: Galicia
 - code: es-ib
