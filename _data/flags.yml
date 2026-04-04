@@ -180,6 +180,8 @@
   name: Spain
 - code: es-variant
   name: Spain
+- code: es-an
+  name: Andalusia
 - code: es-ar
   name: Aragon
 - code: es-ce
