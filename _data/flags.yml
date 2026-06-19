@@ -264,6 +264,8 @@
   name: Scotland
 - code: gb-wls
   name: Wales
+- code: gb-yks
+  name: Yorkshire
 - code: gd
   name: Grenada
 - code: ge
