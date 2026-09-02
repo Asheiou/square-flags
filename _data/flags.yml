@@ -752,6 +752,8 @@
   name: Texas
 - code: us-betsy_ross
   name: Betsy Ross
+- code: us-vt
+  name: Vermont
 - code: us-confederate_battle
   name: Confederate battle
 - code: um
